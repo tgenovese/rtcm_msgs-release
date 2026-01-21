@@ -1,3 +1,26 @@
+## rtcm_msgs (jazzy) - 1.1.6-5
+
+The packages in the `rtcm_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/rtcm_msgs-release.git rtcm_msgs` on `Wed, 21 Jan 2026 17:39:33 -0000`
+
+The `rtcm_msgs` package was released.
+
+Version of package(s) in repository `rtcm_msgs`:
+
+- upstream repository: https://github.com/tilk/rtcm_msgs.git
+- release repository: https://github.com/tgenovese/rtcm_msgs-release.git
+- rosdistro version: `1.1.6-4`
+- old version: `1.1.6-4`
+- new version: `1.1.6-5`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rtcm_msgs (rolling) - 1.1.6-1
 
 The packages in the `rtcm_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rtcm_msgs --rosdistro rolling -y --unsafe` on `Mon, 14 Nov 2022 13:18:32 -0000`
